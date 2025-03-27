@@ -1,3 +1,4 @@
+![1697619499982](https://github.com/user-attachments/assets/c27f8904-9a80-4c9d-b917-9699436bd6ee)
 <h1 align="center">Hi 👋, I'm Bhumit Tanwar</h1>
 <h3 align="center">Coding, Marketing & Side Hustles – Let’s Build Something Cool! 🚀</h3>
 
