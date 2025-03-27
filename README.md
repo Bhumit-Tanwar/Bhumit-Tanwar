@@ -1,4 +1,7 @@
-![1697619499982](https://github.com/user-attachments/assets/c27f8904-9a80-4c9d-b917-9699436bd6ee)
+<p align="center">
+  <img src=""C:\Users\dell\Downloads\1697619499982.jpeg"" alt="Your Banner" width="80%" />
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Bhumit Tanwar</h1>
