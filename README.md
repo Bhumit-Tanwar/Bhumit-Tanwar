@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\dell\Downloads\1697619499982.jpeg"" alt="Your Banner" width="80%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHPjkFIyg-jgw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1697619499982?e=1748476800&v=beta&t=bl61Q7fb-H_ejvqMiCjYY9HY8kOs46CSz4qzDZtKgN4" alt="Your Banner" width="80%" />
 </p>
 
 
